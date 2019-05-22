@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="QLanguageTest1">
+      <file>qlanguagetest1_en.qm</file>
+      <file>qlanguagetest1_ja.qm</file>
+      <file>qlanguagetest1_zh.qm</file>
+    </qresource>
+</RCC>
